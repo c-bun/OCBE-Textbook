@@ -64,5 +64,7 @@ if __name__ == "__main__":
                         new_example_problems.append(parse_example_problem(example_problem))
                     text = replace_example_problems(text, example_problems, new_example_problems)
                     # save the file with "_parsed" appended to the name
-                    with open(path[:-3] + "_parsed.md", 'w') as f:
+                    #with open(path[:-3] + "_parsed.md", 'w') as f:
+                    # save the file
+                    with open(path, 'w') as f:
                         f.write(text)
