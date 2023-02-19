@@ -21,7 +21,14 @@ parts:
     - file: OCBE_II/Chapter 10 - Nucleophilic Addition to Carbonyl Groups
     - file: OCBE_II/Chapter 11 - Nucleophilic acyl substitution reactions
     - file: OCBE_II/Chapter 12 - Reactions at the ⍺-carbon, part I
+    - file: OCBE_II/Interchapter - Predicting metabolic pathways
     - file: OCBE_II/Chapter 13 - Reactions at the ⍺-carbon, part II
+    - file: OCBE_II/Chapter 14 - Electrophilic reactions
+    - file: OCBE_II/Chapter 15 - Oxidation and reduction reactions
+    - file: OCBE_II/Chapter 16 - Free radical reactions
+    - file: OCBE_II/Chapter 17 - Coenzymes
+    - file: OCBE_II/Tables
+    - file: OCBE_II/Appendix 1 - Enzymatic reactions by metabolic pathway and EC number
   - caption: Solutions
     chapters:
     - file: Solutions/Solutions to in-chapter problems
