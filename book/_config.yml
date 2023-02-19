@@ -31,8 +31,8 @@ html:
   use_issues_button: true
   use_repository_button: true
   use_edit_page_button: true # This still requires a fork and pull request of the repository.
-  comments:
-    hypothesis: true
+#  comments:
+#    hypothesis: true
   
 parse:
   myst_enable_extensions:
