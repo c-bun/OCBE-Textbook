@@ -333,7 +333,7 @@ style="width:2.25556in;height:1.55556in" />
 
 fig 9b
 
-## Section 11.3: The relative reactivity of carboxylic acid derivatives
+## 11.3: The relative reactivity of carboxylic acid derivatives
 
 In carboxylic acid derivatives, the partial positive charge on the
 carbonyl carbon is stabilized by electron donation from nonbonding
