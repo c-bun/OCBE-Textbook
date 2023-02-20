@@ -25,12 +25,26 @@ repository:
   path_to_book: book  # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
+# All this needs to be here to keep the repo buttons but also adjust the navbar depth
+sphinx:
+  config:
+    html_theme_options:
+      show_navbar_depth: 0
+      repository_url: https://github.com/c-bun/OCBE-Textbook
+      repository_branch: main
+      path_to_docs: book
+      use_repository_button: true
+      use_edit_page_button: true # This still requires a fork and pull request of the repository.
+      use_issues_button: true
+
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
   use_issues_button: true
   use_repository_button: true
   use_edit_page_button: true # This still requires a fork and pull request of the repository.
+  theme_options:
+    show_navbar_depth: 0
 #  comments:
 #    hypothesis: true
   
@@ -39,8 +53,3 @@ parse:
     # don't forget to list any other extensions you want enabled,
     # including those that are enabled by default!
     - html_image
-
-sphinx:
-  config:
-    html_theme_options:
-      show_navbar_depth: 0
