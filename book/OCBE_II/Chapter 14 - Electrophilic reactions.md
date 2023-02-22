@@ -458,7 +458,7 @@ style="width:5.37986in;height:1.37986in" />
 
 fig 13
 
-*lpha*-terpineol, a major component in the sap of pine trees, is formed
+Alpha-terpineol, a major component in the sap of pine trees, is formed
 in an electrophilic addition reaction. The first thing that happens
 (which we will refer to below as 'step a', in order to keep the step
 numbering consistent what the addition mechanisms we have seen so far)
