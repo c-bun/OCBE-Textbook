@@ -725,7 +725,7 @@ fig 30
 <u>Exercise 12.10</u>: Draw the carbon-carbon bond breaking step in the
 reaction above. Use the Fischer projection notation.
 
-##  4: ⍺-carbon reactions in the synthesis lab - kinetic vs. thermodynamic enolates
+##  12.4: ⍺-carbon reactions in the synthesis lab - kinetic vs. thermodynamic enolates
 
 While aldol addition reactions are widespread in biochemical pathways as
 a way of forming carbon-carbon bonds, synthetic organic chemists working
