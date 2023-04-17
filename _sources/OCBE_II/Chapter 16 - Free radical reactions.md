@@ -607,7 +607,7 @@ style="width:5.99097in;height:1.54653in" />
 
 fig 26
 
-## Section 16.6: Flavin as a a single-electron carrier
+## Section 16.6: Flavin as a single-electron carrier
 
 In chapter 15 we saw how a nicotinamide and flavin coenzymes can act as
 acceptors or donors of *two* electrons in hydride-transfer redox steps.
