@@ -254,7 +254,7 @@ a nearby carbonyl group would actually slow down a hypothetical
 electrophilic addition reaction down because a carbonyl is an electron
 withdrawing, carbocation-destabilized group.
 
-### 14.1B:The stereochemistry of electrophilic addition
+### 14.1B: The stereochemistry of electrophilic addition
 
 Depending on the structure of the starting alkene, electrophilic
 addition has the potential to create two new chiral centers. Addition of
