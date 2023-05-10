@@ -995,7 +995,7 @@ straight-chain (ie. aldose/ketose) form of the sugars in both cases.
 <img src="media/image329.png"
 style="width:3.97222in;height:1.44444in" />
 
-**b) (***J. Biol. Chem.* **2011,** *286***,** 14057)
+**b)** (*J. Biol. Chem.* **2011**, *286*, 14057)
 
 <img src="media/image330.png"
 style="width:5.77778in;height:1.10208in" />
