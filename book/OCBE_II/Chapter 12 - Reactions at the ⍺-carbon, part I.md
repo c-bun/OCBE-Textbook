@@ -247,7 +247,7 @@ fig 8
 
 The ketose species is first converted to its enol tautomer in step 1
 (actually, this particular intermediate is known as an
-'**ene-*diol****'* rather than an enol, because there are hydroxyl
+'**ene-*diol***' rather than an enol, because there are hydroxyl
 groups on both sides of the carbon-carbon double bond). Step 2 leads to
 the aldose, and is simply another tautomerization step. However, because
 there is a hydroxyl group on the adjacent (blue) carbon, a carbonyl can
