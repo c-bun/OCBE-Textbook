@@ -692,7 +692,7 @@ fig 50
 The E stands for 'elimination'; the numeral 1 refers to the fact that,
 like the S<sub>N</sub>1 mechanism, it is a stepwise reaction with first
 order kinetics. The 'cB' designation refers to the intermediate, which
-is the **<u>c</u>**onjugate **<u>b</u>**ase of the starting compound. In
+is the conjugate base of the starting compound. In
 step 1, an α-carbon is deprotonated to produce an enolate, just like in
 aldol and Claisen reactions we have already seen. In step 2, the excess
 electron density on the enolate expels a leaving group at the β position
