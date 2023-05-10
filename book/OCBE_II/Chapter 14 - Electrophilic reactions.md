@@ -236,7 +236,7 @@ fig 2a
 
 It is important to recognize the inherent difference between an
 *electrophilic* addition to an alkene and a *conjugate* addition to an
-alkene in the  position, the latter of which we studied earlier in
+alkene in the β position, the latter of which we studied earlier in
 section 13.4. In both reactions, a proton and a nucleophile add to the
 double bond of an alkene. In a conjugate addition, the nucleophilic
 attack takes place first, resulting in a negatively charged intermediate
