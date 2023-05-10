@@ -71,7 +71,7 @@ reduction in neural tube defects.
 
 The molecular role of folate in prenatal neurological development is not
 understood in detail, but most researchers agree that it probably has a
-lot to do with DNA biosynthesis. Like *S-*adenosyl methionine (SAM),
+lot to do with DNA biosynthesis. Like S-adenosyl methionine (SAM),
 folate functions in 1-carbon transfer reactions, including several
 critical steps in the nucleic acid biosynthesis pathways. The rapidly
 dividing cells of the developing brain of an early term fetus appear to
